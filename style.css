@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: bisque;
+    width: 1890px;
+    height: 70px;
+}
+
+.text {
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: larger;
+}
+
+.container {
+    background-image: url(/imgs/Frame\ \(1\).png);
+    width: 1990px;
+    height: 1990px;
+    background-repeat: no-repeat;
+    background-size: 1990px;
+    position: absolute;
+    top: 15px;
+}
+
+.cross {
+    background-image: url(/imgs/R.png);
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    position: absolute;
+    top: 20px;
+    left: 1820px;
+}
+
+.logo {
+    background-image: url(/imgs/AuraGlow-logo-removebg-preview.png);
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 250px;
+    position: absolute;
+    top: 70px;
+    left: 150px;
+}
+
+.Products {
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    left: 500px;
+    
+}
+
+.p1 {
+    text-decoration: none;
+    color: red;
+}
+
+.Our_story {
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    left: 650px;
+    bottom: 40px;
+}
+
+.Reviews {
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    left: 800px;
+    bottom: 80px;
+}
+
+.Virtual_mirror {
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    left: 950px;
+    bottom: 120px;
+}
+
+.shcart {
+    background-image: url(/imgs/shoppingcartfix.png);
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    position: relative;
+    top: 70px;
+    left: 1745px;
+}
